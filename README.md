@@ -1,3 +1,5 @@
 # SharedPreferencesTest
 
 从SharedPreferences中读取数据的Log结果存储在:logcat-result/restore_data.png
+
+利用SharedPreferences实现记住密码的功能在BroadcastBestPractice项目中
